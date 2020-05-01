@@ -1,0 +1,30 @@
+{
+  "lineTemplate": "{{text}}",
+  "options": [
+    "800 Building (Music)", 
+    "1000 Building (Administration)", 
+    "1100 Building", 
+    "1200 Building (Business Office)", 
+    "1300 Building (Computer Lab)", 
+    "1400 Building", 
+    "1500 Building", 
+    "1600 Building (Theater)", 
+    "1700 Building", 
+    "1800 Building", 
+    "1900 Building (Child Care Center)", 
+    "2000 Building (Visual Arts Center)", 
+    "2100 Building (Professional Automotive Technology Center)", 
+    "2200 Building", 
+    "2300 Building (Nursing)", 
+    "2400 Building", 
+    "2500 Building (Dental Hygiene and CNC)", 
+    "2600 Building (Science Lab)", 
+    "2700 Building", 
+    "2800 Building (Math/Science Office)", 
+    "2900 Building", 
+    "3000 Building (Gym)", 
+    "4000 Building (Library)", 
+    "5000 Building (FOSS)", 
+    "9000 Building (PUB)"
+    ]
+  } 

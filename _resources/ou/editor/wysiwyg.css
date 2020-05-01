@@ -1,0 +1,61 @@
+/* WYSIWYG Select-list overrides in table with dropdown arrow */
+.ou-select-list li {
+  font-size: .95rem;
+}
+
+.ou-contact-us-box table tbody {
+  font-size: 1rem;
+}
+
+table tbody.select-lists td[data-select-list] {
+  font-size: .95rem;
+}
+
+table tbody.select-lists td[data-select-list] {
+  position: relative;
+  width: 200px;
+}
+
+table tbody.select-lists td[data-select-list]:after {
+  content: "\f0d7";
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  padding: 5px;
+  position: absolute;
+  top: 0;
+  right: 5px;
+  color: hsla(200, 100%, 35%, 1) !important;
+}
+
+ul.ou-select-list {
+  padding: 0 !important;
+  margin: 0 !important;
+  border: 1px dashed #ccc;
+}
+
+ul.ou-select-list li {
+  background-color: #eee;
+}
+
+ul.ou-select-list li.active {
+  background-color: hsla(200, 100%, 35%, 0.22) !important;
+}
+
+ul.ou-select-list li:hover {
+  background-color: #ddd !important;
+}
+
+.ou-justedit-region [data-select-list]:empty::after {
+  margin: 0 0 5px 5px;
+  position: relative;
+  color: #333 !important;
+  font-family: Libre Franklin, Tahoma, Verdana, Segoe, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Geneva, Arial, sans-serif;
+  font-size: .8rem;
+  font-weight: normal;
+  font-style: italic;
+  background-color: #eee;
+  ;
+  padding: 4px 8px !important;
+}
+
+/* end WYSIWYG Select-list overrides in table with dropdown arrow */

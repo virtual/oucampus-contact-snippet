@@ -1,0 +1,13 @@
+{
+  "lineTemplate": "{{text}}",
+  "options": [
+    "Unformatted:No format:{{text}}",
+    "Phone (Numbers only):phone",
+    "Fax (Numbers only):fax",
+    "Email Address:email",
+    "Location (Simple):location",
+    "Person:person",
+    "Video Chat:video chat",
+    "Hours (Simple):hours"
+    ]
+  } 

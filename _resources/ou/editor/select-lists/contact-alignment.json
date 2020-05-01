@@ -1,0 +1,7 @@
+{
+  "lineTemplate": "{{text}}",
+  "options": [
+    "top:top",
+    "center:center"
+    ]
+  } 
